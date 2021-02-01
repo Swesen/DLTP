@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inlamning_2_ra_kod", "Inlamning_2_ra_kod.csproj", "{196EB19A-F562-42AA-AF5E-3B01CB9A57BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{196EB19A-F562-42AA-AF5E-3B01CB9A57BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196EB19A-F562-42AA-AF5E-3B01CB9A57BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196EB19A-F562-42AA-AF5E-3B01CB9A57BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196EB19A-F562-42AA-AF5E-3B01CB9A57BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA36638F-81D9-4E01-8726-1915242028F0}
+	EndGlobalSection
+EndGlobal
